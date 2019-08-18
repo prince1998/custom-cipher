@@ -1,2 +1,2 @@
-# custom-cipher
+# Custom Cipher
 My own custom substitution cipher
